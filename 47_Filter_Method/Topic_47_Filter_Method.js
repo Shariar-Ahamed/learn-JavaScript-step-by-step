@@ -26,5 +26,7 @@ const heroNames = [
       { name : "Sadia", age : 26, profession : "Engineer"}
 ];
 
-const myHero = heroNames.filter((hero) => hero.age < 25);
-console.log(myHero); // Output: [{ name: "Sabbir", age: 22, professin: "Teacher"}]
+const myHero = heroNames.filter((hero) => hero.age <= 28 && hero.profession === "Doctor");
+
+console.log(myHero); // Output: [ { name: 'Sakib', age: 28, profession: 'Doctor' } ]
+console.log(myHero); // Output: [ { name: 'Sakib', age: 28, profession: 'Doctor' } ]
