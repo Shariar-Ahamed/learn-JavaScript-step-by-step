@@ -1,4 +1,4 @@
-//<------Multi line way------>
+//!<------Multi line way------>
 const numbers = [1, 2, 3, 4, 5];
 
 const sumResult = numbers.reduce((preValue, currentValue) => {
@@ -19,7 +19,7 @@ console.log(sumResult); // Output: 15
 
 
 
-//<------Single line way------>
+//!<------Single line way------>
 const num = [10, 20, 30, 40, 50];
 
 const result = num.reduce((preValue, currentValue) => preValue + currentValue, 0);
@@ -29,7 +29,7 @@ console.log(result); // Output: 150
 
 
 
-//<------Shopping card example:------>
+//!<------Shopping card example:------>
 const shoppingCard = [
     { name: 'item1', price: 100 },
     { name: 'item2', price: 256 },
