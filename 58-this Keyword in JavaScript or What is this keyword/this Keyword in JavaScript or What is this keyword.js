@@ -4,7 +4,7 @@
 
 test();*/
 
-// NOTE This is just a note
+//! NOTE This is just a note
 
 const user = {
     firstName: 'John',
