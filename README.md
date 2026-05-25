@@ -1,3 +1,37 @@
+<h1 align="center">⚡ Learn JavaScript Step by Step</h1>
+
+<p align="center">
+  <img src="https://i.postimg.cc/Xq7gGhMP/js-(1).png" alt="JavaScript Banner">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Learning%20Journey-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Step--By--Step-Guide-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DOM-Manipulation-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hands%20On-Exercises-blue?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/Shariar-Ahamed/learn-JavaScript-step-by-step">
+  <img src="https://img.shields.io/github/repo-size/Shariar-Ahamed/learn-JavaScript-step-by-step">
+  <img src="https://img.shields.io/github/last-commit/Shariar-Ahamed/learn-JavaScript-step-by-step">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Shariar-Ahamed/learn-JavaScript-step-by-step?style=social">
+  <img src="https://img.shields.io/github/forks/Shariar-Ahamed/learn-JavaScript-step-by-step?style=social">
+</p>
+
+<p align="center">
+<a href="https://wakatime.com/badge/user/c7433bc5-6f12-4c97-baea-430790fa608c/project/40a5b238-f733-461b-a1a4-90f62b81de89">
+<img src="https://wakatime.com/badge/user/c7433bc5-6f12-4c97-baea-430790fa608c/project/40a5b238-f733-461b-a1a4-90f62b81de89.svg" alt="wakatime">
+</a>
+</p>
+
+---
+
 # JavaScript Basics 🚀
 
 Welcome to **Learn_JavaScript!**  
